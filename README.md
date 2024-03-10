@@ -9,3 +9,5 @@ The script will generate output similar to the provided image, showing the requi
 
 Rebecca Bennett
 Bennettillustration@gmail.com
+
+This code was written with Sam Pabalate
